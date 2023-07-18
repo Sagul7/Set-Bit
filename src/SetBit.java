@@ -19,3 +19,5 @@ public class SetBit {
         return 2 * caculatePow(A-1);
     }
 }
+//just calculate 2^A + 2^B 
+//if both equal 2^A;
